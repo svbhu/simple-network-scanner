@@ -20,5 +20,5 @@ I set up a virtual lab with an attacker machine and a vulnerable victim machine.
 I initially encountered an issue where the scanner showed "0 ports found." I troubleshooted this by checking the network configurations and realized both VMs were on NAT. I fixed it by switching both network adapters to **Host-Only Mode**, which allowed the machines to communicate on a private network.
 
 ## Visuals
-![Network Scan Result](YOUR_SCREENSHOT_FILENAME.png)
+![Network Scan Result](Screenshot 2026-01-20 145622.png)
 *(Make sure the filename matches exactly what you uploaded)*
